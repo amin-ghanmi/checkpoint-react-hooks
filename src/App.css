@@ -1,0 +1,23 @@
+.header{
+    display: flex ;
+    justify-content: space-around;
+}
+.header input{
+    width: 40%;
+    height: 35px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+/* .gold{
+    color: gold;
+} */
+.star{
+    font-size: 25px;
+    cursor: pointer;
+    color: black;
+}
+.colored{
+    font-size: 25px;
+    cursor: pointer;
+    color: gold;
+}
